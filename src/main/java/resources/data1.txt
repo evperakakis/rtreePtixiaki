@@ -1,0 +1,7 @@
+Entry [value=PARIS LONDON, geometry=Point [x=9.0, y=20.0]]
+Entry [value=LONDON PARIS, geometry=Point [x=10.0, y=20.0]]
+Entry [value=ATHENS PARIS, geometry=Point [x=12.0, y=25.0]]
+Entry [value=BARCELONA ATHENS, geometry=Point [x=110.0, y=113.0]]
+Entry [value=LONDON, geometry=Point [x=100.0, y=100.0]]
+Entry [value=ATHENS LONDON, geometry=Point [x=97.0, y=125.0]]]
+
