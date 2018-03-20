@@ -16,8 +16,6 @@ import static com.github.davidmoten.rtree.geometry.Geometries.point;
 import org.apache.commons.lang3.StringUtils;
 
 
-
-
 public class App {
 
     private static List<Entry<String, Point>> entrySort(List<Entry<String, Point>> list){ //sorts a List of Entries based on x Value
